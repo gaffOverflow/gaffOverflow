@@ -1,10 +1,8 @@
-
-[![MasterHead](https://freight.cargo.site/t/original/i/5a69f0f095793f10508b30a779df3a77d5d8c3cd649265f5d87b7aa2eacb0c72/jjj.gif)](https://replit.com/@Laru18)
-
+<img align="center"  alt="Coding" width="1200" src="https://freight.cargo.site/t/original/i/5a69f0f095793f10508b30a779df3a77d5d8c3cd649265f5d87b7aa2eacb0c72/jjj.gif">
 <h1 align="center">Hi 👋, I'm Gaffar Ibrahim</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
+<img align="center" alt="Coding" width="500" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaffOverflow&label=Profile%20views&color=0e75b6&style=flat" alt="gaffOverflow" /> </p>
 
@@ -18,7 +16,7 @@
 
 - 🤝 I’m looking for help with **securing my internship**
 
-- 👨‍💻 All of my projects are available at [currently on maintainance](currently on maintainance)
+- 👨‍💻 All of my [projects](https://replit.com/@Laru18)
 
 - 💬 Ask me about **html, css, javascript**
 
@@ -38,6 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaffOverflow&show_icons=true&locale=en&layout=compact" alt="gaffOverflow" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaffOverflow&show_icons=true&locale=en" alt="gaffOverflow" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaffOverflow&" alt="gaffOverflow" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gaffOverflow&" alt="gaffOverflow" /></p>
