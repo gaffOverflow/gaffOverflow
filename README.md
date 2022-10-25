@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gaffar Ibrahim</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<img align="right" alt="Coding" width="500" height="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
+<img align="right" alt="Coding" width="500"  src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaffOverflow&label=Profile%20views&color=0e75b6&style=flat" alt="gaffOverflow" /> </p>
 
